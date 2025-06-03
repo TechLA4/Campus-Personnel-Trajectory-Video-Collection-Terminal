@@ -1,0 +1,178 @@
+[
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:10:56",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "lyy-8247",
+    "similarity": 0.69,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:01",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "lyy-8247",
+    "similarity": 0.72,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:01",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "unknown",
+    "name": "lyy-8247",
+    "similarity": 0.72,
+    "direction": "东"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:09",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "lyy-8247",
+    "similarity": 0.75,
+    "direction": "static"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:14",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "lyy-8247",
+    "similarity": 0.71,
+    "direction": "static"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:14",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "white",
+    "name": "lyy-8247",
+    "similarity": 0.71,
+    "direction": "东"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:23",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "white",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:23",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:23",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "unknown",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "东"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:24",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "unknown",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:24",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:24",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "北"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:24",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "unknown",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "南"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:25",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "unknown",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "北"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:25",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "unknown",
+    "name": "unkown",
+    "similarity": 0.00,
+    "direction": "西"
+  },
+  {
+    "cameraid": "camera4",
+    "time": "2025-05-14 13:11:25",
+    "location": "新安学堂侧门入口",
+    "person": "true",
+    "bag": "false",
+    "cloth_color": "gray",
+    "name": "lyy-8247",
+    "similarity": 0.71,
+    "direction": "西"
+  }
+]

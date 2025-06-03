@@ -1,0 +1,188 @@
+Date : 2025-05-26 08:26:47
+Directory : /home/kevin/qt_test1
+Total : 134 files,  79593 codes, 16143 comments, 9566 blanks, all 105302 lines
+
+Languages
++-------------+------------+------------+------------+------------+------------+
+| language    | files      | code       | comment    | blank      | total      |
++-------------+------------+------------+------------+------------+------------+
+| C++         |        109 |     77,453 |     16,001 |      9,140 |    102,594 |
+| C           |          3 |        721 |         87 |        155 |        963 |
+| Log         |          1 |        425 |          0 |         39 |        464 |
+| CMake       |          9 |        351 |          0 |         77 |        428 |
+| CMake Cache |          1 |        302 |          0 |         65 |        367 |
+| JSON        |          1 |        178 |          0 |          0 |        178 |
+| Makefile    |          1 |        154 |         55 |         90 |        299 |
+| XML         |          9 |          9 |          0 |          0 |          9 |
++-------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |        134 |     79,593 |     16,143 |      9,566 |    105,302 |
+| . (Files)                                                                               |         47 |      4,450 |        608 |      1,265 |      6,323 |
+| SOURCE                                                                                  |          9 |          9 |          0 |          0 |          9 |
+| build                                                                                   |         13 |      2,201 |        157 |        492 |      2,850 |
+| build (Files)                                                                           |          3 |        498 |         55 |        163 |        716 |
+| build/CMakeFiles                                                                        |         10 |      1,703 |        102 |        329 |      2,134 |
+| build/CMakeFiles (Files)                                                                |          3 |        481 |          0 |         50 |        531 |
+| build/CMakeFiles/3.16.3                                                                 |          5 |      1,143 |        102 |        270 |      1,515 |
+| build/CMakeFiles/3.16.3 (Files)                                                         |          3 |        140 |          0 |         42 |        182 |
+| build/CMakeFiles/3.16.3/CompilerIdC                                                     |          1 |        507 |         50 |        115 |        672 |
+| build/CMakeFiles/3.16.3/CompilerIdCXX                                                   |          1 |        496 |         52 |        113 |        661 |
+| build/CMakeFiles/atk_yolov5_object_recognize.dir                                        |          2 |         79 |          0 |          9 |         88 |
+| include                                                                                 |         65 |     72,933 |     15,378 |      7,809 |     96,120 |
+| include (Files)                                                                         |         31 |      4,277 |        806 |        951 |      6,034 |
+| include/3rdparty                                                                        |         33 |     68,622 |     14,544 |      6,846 |     90,012 |
+| include/3rdparty/CImg                                                                   |          1 |     52,829 |      8,521 |      3,789 |     65,139 |
+| include/3rdparty/drm                                                                    |         23 |      6,470 |      4,038 |      1,476 |     11,984 |
+| include/3rdparty/drm/include                                                            |         23 |      6,470 |      4,038 |      1,476 |     11,984 |
+| include/3rdparty/drm/include (Files)                                                    |          5 |      1,158 |        386 |        267 |      1,811 |
+| include/3rdparty/drm/include/libdrm                                                     |         18 |      5,312 |      3,652 |      1,209 |     10,173 |
+| include/3rdparty/rga                                                                    |          6 |        758 |        128 |        192 |      1,078 |
+| include/3rdparty/rga/include                                                            |          6 |        758 |        128 |        192 |      1,078 |
+| include/3rdparty/stb                                                                    |          3 |      8,565 |      1,857 |      1,389 |     11,811 |
+| include/seeta                                                                           |          1 |         34 |         28 |         12 |         74 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
+| filename                                                                                | language    | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
+| /home/kevin/qt_test1/20250514-1311_1.json                                               | JSON        |        178 |          0 |          0 |        178 |
+| /home/kevin/qt_test1/CMakeLists.txt                                                     | CMake       |         34 |          0 |          7 |         41 |
+| /home/kevin/qt_test1/SOURCE/dectRect.svg                                                | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/idifer.svg                                                  | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/minitor.svg                                                 | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/mintor.svg                                                  | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/pose.svg                                                    | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/shexiang.svg                                                | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/startjiance.svg                                             | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/triangle-play.svg                                           | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/SOURCE/video.svg                                                   | XML         |          1 |          0 |          0 |          1 |
+| /home/kevin/qt_test1/a.cpp                                                              | C++         |         43 |          7 |         10 |         60 |
+| /home/kevin/qt_test1/atk_yolov5_object_recognize.cpp                                    | C++         |        670 |        129 |        182 |        981 |
+| /home/kevin/qt_test1/atk_yolov5_object_recognize.h                                      | C++         |         60 |          7 |         21 |         88 |
+| /home/kevin/qt_test1/browserdebugout.cpp                                                | C++         |         15 |          0 |          5 |         20 |
+| /home/kevin/qt_test1/browserdebugout.h                                                  | C++         |          8 |          0 |          3 |         11 |
+| /home/kevin/qt_test1/build/CMakeCache.txt                                               | CMake Cache |        302 |          0 |         65 |        367 |
+| /home/kevin/qt_test1/build/CMakeFiles/3.16.3/CMakeCCompiler.cmake                       | CMake       |         60 |          0 |         17 |         77 |
+| /home/kevin/qt_test1/build/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake                     | CMake       |         70 |          0 |         19 |         89 |
+| /home/kevin/qt_test1/build/CMakeFiles/3.16.3/CMakeSystem.cmake                          | CMake       |         10 |          0 |          6 |         16 |
+| /home/kevin/qt_test1/build/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c             | C           |        507 |         50 |        115 |        672 |
+| /home/kevin/qt_test1/build/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp       | C++         |        496 |         52 |        113 |        661 |
+| /home/kevin/qt_test1/build/CMakeFiles/CMakeDirectoryInformation.cmake                   | CMake       |         12 |          0 |          5 |         17 |
+| /home/kevin/qt_test1/build/CMakeFiles/CMakeOutput.log                                   | Log         |        425 |          0 |         39 |        464 |
+| /home/kevin/qt_test1/build/CMakeFiles/Makefile.cmake                                    | CMake       |         44 |          0 |          6 |         50 |
+| /home/kevin/qt_test1/build/CMakeFiles/atk_yolov5_object_recognize.dir/DependInfo.cmake  | CMake       |         66 |          0 |          7 |         73 |
+| /home/kevin/qt_test1/build/CMakeFiles/atk_yolov5_object_recognize.dir/cmake_clean.cmake | CMake       |         13 |          0 |          2 |         15 |
+| /home/kevin/qt_test1/build/Makefile                                                     | Makefile    |        154 |         55 |         90 |        299 |
+| /home/kevin/qt_test1/build/cmake_install.cmake                                          | CMake       |         42 |          0 |          8 |         50 |
+| /home/kevin/qt_test1/config.cpp                                                         | C++         |         53 |          9 |         23 |         85 |
+| /home/kevin/qt_test1/config.h                                                           | C++         |         30 |          3 |         16 |         49 |
+| /home/kevin/qt_test1/config_camera.cpp                                                  | C++         |         83 |         11 |         26 |        120 |
+| /home/kevin/qt_test1/config_camera.h                                                    | C++         |         40 |          1 |         23 |         64 |
+| /home/kevin/qt_test1/database_inf.cpp                                                   | C++         |        139 |         20 |         62 |        221 |
+| /home/kevin/qt_test1/database_inf.h                                                     | C++         |         52 |          1 |         13 |         66 |
+| /home/kevin/qt_test1/database_log.cpp                                                   | C++         |         71 |         13 |         29 |        113 |
+| /home/kevin/qt_test1/database_log.h                                                     | C++         |         29 |          2 |         14 |         45 |
+| /home/kevin/qt_test1/database_video.cpp                                                 | C++         |         95 |         15 |         41 |        151 |
+| /home/kevin/qt_test1/database_video.h                                                   | C++         |         35 |          0 |          9 |         44 |
+| /home/kevin/qt_test1/databse.cpp                                                        | C++         |          4 |          0 |          3 |          7 |
+| /home/kevin/qt_test1/detect.cpp                                                         | C++         |        256 |         30 |         60 |        346 |
+| /home/kevin/qt_test1/detect.h                                                           | C++         |         26 |         16 |         14 |         56 |
+| /home/kevin/qt_test1/detect_face.cpp                                                    | C++         |          4 |          0 |          3 |          7 |
+| /home/kevin/qt_test1/detect_face.h                                                      | C++         |          8 |          0 |          3 |         11 |
+| /home/kevin/qt_test1/detect_postprocess.cpp                                             | C++         |        366 |         36 |         54 |        456 |
+| /home/kevin/qt_test1/detect_postprocess.h                                               | C++         |         36 |          0 |          7 |         43 |
+| /home/kevin/qt_test1/detection.cpp                                                      | C++         |        724 |        103 |        272 |      1,099 |
+| /home/kevin/qt_test1/detection.h                                                        | C++         |        112 |          7 |         54 |        173 |
+| /home/kevin/qt_test1/drm_func.c                                                         | C           |        136 |         21 |         20 |        177 |
+| /home/kevin/qt_test1/face_database.cpp                                                  | C++         |         88 |         54 |         24 |        166 |
+| /home/kevin/qt_test1/face_database.h                                                    | C++         |         13 |          0 |          5 |         18 |
+| /home/kevin/qt_test1/facedetect.cpp                                                     | C++         |         52 |          7 |         13 |         72 |
+| /home/kevin/qt_test1/facedetect.h                                                       | C++         |         22 |          1 |          6 |         29 |
+| /home/kevin/qt_test1/fatigue.cpp                                                        | C++         |        213 |         59 |         46 |        318 |
+| /home/kevin/qt_test1/fatigue.h                                                          | C++         |         70 |          6 |         16 |         92 |
+| /home/kevin/qt_test1/form1.cpp                                                          | C++         |         12 |          0 |          3 |         15 |
+| /home/kevin/qt_test1/include/3rdparty/CImg/CImg.h                                       | C++         |     52,829 |      8,521 |      3,789 |     65,139 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/demo.h                                | C++         |        103 |          6 |         28 |        137 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/demo_define.h                         | C++         |          7 |         29 |          9 |         45 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/amdgpu_drm.h                   | C++         |        628 |        332 |        108 |      1,068 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/drm.h                          | C++         |        624 |        296 |        123 |      1,043 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/drm_fourcc.h                   | C++         |        200 |        478 |         86 |        764 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/drm_mode.h                     | C++         |        493 |        310 |        112 |        915 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/drm_sarea.h                    | C++         |         42 |         37 |         14 |         93 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/i915_drm.h                     | C++         |        814 |        888 |        214 |      1,916 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/mach64_drm.h                   | C++         |        148 |         68 |         41 |        257 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/mga_drm.h                      | C++         |        231 |        139 |         58 |        428 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/nouveau_drm.h                  | C++         |        165 |         26 |         31 |        222 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/qxl_drm.h                      | C++         |         97 |         36 |         26 |        159 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/r128_drm.h                     | C++         |        217 |         75 |         45 |        337 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/radeon_drm.h                   | C++         |        791 |        175 |        114 |      1,080 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/savage_drm.h                   | C++         |        140 |         54 |         27 |        221 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/sis_drm.h                      | C++         |         36 |         31 |         11 |         78 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/tegra_drm.h                    | C++         |        151 |        455 |         76 |        682 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/vc4_drm.h                      | C++         |        221 |        172 |         50 |        443 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/via_drm.h                      | C++         |        190 |         49 |         45 |        284 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/libdrm/virtgpu_drm.h                  | C++         |        124 |         31 |         28 |        183 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/tool.h                                | C++         |         27 |        107 |         12 |        146 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/xf86drm.h                             | C++         |        698 |        108 |        125 |        931 |
+| /home/kevin/qt_test1/include/3rdparty/drm/include/xf86drmMode.h                         | C++         |        323 |        136 |         93 |        552 |
+| /home/kevin/qt_test1/include/3rdparty/rga/include/RgaApi.h                              | C++         |         26 |         11 |          7 |         44 |
+| /home/kevin/qt_test1/include/3rdparty/rga/include/RockchipFileOps.h                     | C++         |          5 |         12 |          4 |         21 |
+| /home/kevin/qt_test1/include/3rdparty/rga/include/RockchipRga.h                         | C++         |         39 |         18 |         17 |         74 |
+| /home/kevin/qt_test1/include/3rdparty/rga/include/RockchipRgaMacro.h                    | C++         |          8 |         16 |          4 |         28 |
+| /home/kevin/qt_test1/include/3rdparty/rga/include/drmrga.h                              | C++         |        106 |         32 |         20 |        158 |
+| /home/kevin/qt_test1/include/3rdparty/rga/include/rga.h                                 | C++         |        574 |         39 |        140 |        753 |
+| /home/kevin/qt_test1/include/3rdparty/stb/stb_image.h                                   | C++         |      5,537 |      1,196 |        827 |      7,560 |
+| /home/kevin/qt_test1/include/3rdparty/stb/stb_image_resize.h                            | C++         |      1,870 |        362 |        399 |      2,631 |
+| /home/kevin/qt_test1/include/3rdparty/stb/stb_image_write.h                             | C++         |      1,158 |        299 |        163 |      1,620 |
+| /home/kevin/qt_test1/include/CFaceInfo.h                                                | C++         |         18 |          0 |          6 |         24 |
+| /home/kevin/qt_test1/include/CStream.h                                                  | C++         |         13 |          0 |          6 |         19 |
+| /home/kevin/qt_test1/include/CStruct.h                                                  | C++         |         80 |          0 |         18 |         98 |
+| /home/kevin/qt_test1/include/CommonStruct.h                                             | C++         |         73 |          1 |         17 |         91 |
+| /home/kevin/qt_test1/include/DataHelper.h                                               | C++         |        390 |          4 |         75 |        469 |
+| /home/kevin/qt_test1/include/FaceDatabase.h                                             | C++         |         52 |         22 |         19 |         93 |
+| /home/kevin/qt_test1/include/FaceDetector.h                                             | C++         |         34 |         28 |         12 |         74 |
+| /home/kevin/qt_test1/include/FaceEngine.h                                               | C++         |        130 |          0 |         31 |        161 |
+| /home/kevin/qt_test1/include/FaceLandmarker.h                                           | C++         |         28 |         21 |         10 |         59 |
+| /home/kevin/qt_test1/include/FaceRecognizer.h                                           | C++         |         36 |         52 |         19 |        107 |
+| /home/kevin/qt_test1/include/FaceRecognizerPrivate.cpp                                  | C++         |        593 |         17 |        139 |        749 |
+| /home/kevin/qt_test1/include/FaceRecognizerPrivate.h                                    | C++         |         68 |        127 |         41 |        236 |
+| /home/kevin/qt_test1/include/ImageProcess.cpp                                           | C++         |        487 |         16 |         70 |        573 |
+| /home/kevin/qt_test1/include/ImageProcess.h                                             | C++         |         29 |          1 |          7 |         37 |
+| /home/kevin/qt_test1/include/Mutex.h                                                    | C++         |         99 |          0 |         22 |        121 |
+| /home/kevin/qt_test1/include/QualityAssessor.h                                          | C++         |         39 |         19 |          7 |         65 |
+| /home/kevin/qt_test1/include/SeetaFaceRecognizerConfig.h                                | C++         |          6 |          0 |          4 |         10 |
+| /home/kevin/qt_test1/include/SeetaModelHeader.h                                         | C++         |         90 |         10 |         23 |        123 |
+| /home/kevin/qt_test1/include/SeetaNetParseProto.cpp                                     | C++         |        353 |          0 |         57 |        410 |
+| /home/kevin/qt_test1/include/SeetaNetParseProto.h                                       | C++         |         29 |          0 |         10 |         39 |
+| /home/kevin/qt_test1/include/Stream.h                                                   | C++         |        165 |          0 |         34 |        199 |
+| /home/kevin/qt_test1/include/Struct.h                                                   | C++         |        538 |         16 |        147 |        701 |
+| /home/kevin/qt_test1/include/Struct_cv.h                                                | C++         |         51 |          1 |          5 |         57 |
+| /home/kevin/qt_test1/include/common_alignment.cpp                                       | C++         |        336 |         85 |         26 |        447 |
+| /home/kevin/qt_test1/include/common_alignment.h                                         | C++         |         31 |         29 |          6 |         66 |
+| /home/kevin/qt_test1/include/drm_func.h                                                 | C++         |         40 |          4 |         11 |         55 |
+| /home/kevin/qt_test1/include/graphics2d.cpp                                             | C++         |          1 |          0 |          2 |          3 |
+| /home/kevin/qt_test1/include/graphics2d.h                                               | C++         |        275 |        108 |         45 |        428 |
+| /home/kevin/qt_test1/include/postprocess.h                                              | C++         |         32 |          0 |          8 |         40 |
+| /home/kevin/qt_test1/include/rga_func.h                                                 | C++         |         24 |          1 |         10 |         35 |
+| /home/kevin/qt_test1/include/rknn_api.h                                                 | C++         |        137 |        244 |         64 |        445 |
+| /home/kevin/qt_test1/include/seeta/FaceDetector.h                                       | C++         |         34 |         28 |         12 |         74 |
+| /home/kevin/qt_test1/log.cpp                                                            | C++         |         21 |          0 |          9 |         30 |
+| /home/kevin/qt_test1/log.h                                                              | C++         |         22 |          2 |         12 |         36 |
+| /home/kevin/qt_test1/logout.cpp                                                         | C++         |         81 |         11 |         29 |        121 |
+| /home/kevin/qt_test1/logout.h                                                           | C++         |         30 |          2 |         12 |         44 |
+| /home/kevin/qt_test1/main.cpp                                                           | C++         |         14 |          0 |          6 |         20 |
+| /home/kevin/qt_test1/mainwindow.cpp                                                     | C++         |         64 |          0 |         16 |         80 |
+| /home/kevin/qt_test1/mainwindow.h                                                       | C++         |         27 |          0 |         16 |         43 |
+| /home/kevin/qt_test1/postprocess.cc                                                     | C++         |        296 |         19 |         42 |        357 |
+| /home/kevin/qt_test1/qiodevice.cpp                                                      | C++         |          4 |          0 |          3 |          7 |
+| /home/kevin/qt_test1/qiodevice.h                                                        | C++         |          8 |          0 |          3 |         11 |
+| /home/kevin/qt_test1/rga_func.c                                                         | C           |         78 |         16 |         20 |        114 |
+| /home/kevin/qt_test1/switchdatabase.cpp                                                 | C++         |         12 |          0 |          3 |         15 |
+| /home/kevin/qt_test1/switchdatabase.h                                                   | C++         |         16 |          0 |          7 |         23 |
+| Total                                                                                   |             |     79,593 |     16,143 |      9,566 |    105,302 |
++-----------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
