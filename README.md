@@ -5,7 +5,7 @@
 
 
 This project is developed on a **Ubuntu 20.04 host** and cross-compiled to run on the **Rockchip RV1126 embedded platform**.
-
+![RV1126](https://techla-img.oss-cn-hangzhou.aliyuncs.com/CODE/WEB/image-20250603100246175.png)
 It consists of **two major components**:
 
 ------
