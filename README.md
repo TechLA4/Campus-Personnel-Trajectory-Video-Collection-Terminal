@@ -20,6 +20,8 @@ It consists of **two major components**:
 
 > **Limitations**: Lacks extended UI display and limits information output.
 
+⚠️Therefore, **I ultimately abandoned the use of this part** and instead adopted Project 2
+
 ------
 
 ### 🔹 2. Complete Qt-Based Surveillance Terminal
